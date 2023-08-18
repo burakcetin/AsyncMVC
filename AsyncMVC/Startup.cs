@@ -1,6 +1,6 @@
 ﻿using Microsoft.Owin;
 using Owin;
-
+;
 [assembly: OwinStartupAttribute(typeof(AsyncMVC.Startup))]
 namespace AsyncMVC
 {
