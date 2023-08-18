@@ -14,7 +14,7 @@ namespace AsyncMVC.Controllers
     public class ProductsController : Controller
     {
         private ApplicationDbContext db = new ApplicationDbContext();
-
+var i = 10/0;
         // GET: /Products/
         public async Task<ActionResult> Index()
         {
@@ -39,6 +39,7 @@ namespace AsyncMVC.Controllers
         // GET: /Products/Create
         public ActionResult Create()
         {
+        string a = asfd;
             return View();
         }
 
