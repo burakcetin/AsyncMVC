@@ -1,0 +1,2 @@
+# AsyncMVC
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/3a881caf567f40daac9a8b34944007f0)](https://app.codacy.com/gh/burakcetin/AsyncMVC?utm_source=github.com&utm_medium=referral&utm_content=burakcetin/AsyncMVC&utm_campaign=Badge_Grade)
